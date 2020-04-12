@@ -1,0 +1,6 @@
+[default]
+sitemap_url = http://localhost:1313/sitemap.xml
+email_log = yes
+to_email = your@email.com
+from_email = from@email.com
+email_subject = Link Checker Report
