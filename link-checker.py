@@ -31,7 +31,7 @@ def main():
 
     pages = parse_sitemap(raw.text)
     page_count = 1
-    for page in pages[:2]:
+    for page in pages:
         urls = get_text_of(page)
         responses = check_page_anchors(page, urls, responses)
         page_count += 1
