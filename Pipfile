@@ -8,9 +8,7 @@ verify_ssl = true
 [packages]
 requests = "*"
 configparser = "*"
-re = "*"
 regex = "*"
-json = "*"
 
 [requires]
 python_version = "3.7"
