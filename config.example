@@ -1,6 +1,6 @@
 [default]
-sitemap_url = http://localhost:1313/sitemap.xml
-email_log = yes
-to_email = your@email.com
-from_email = from@email.com
-email_subject = Link Checker Report
+sitemap_url     = http://localhost:1313/sitemap.xml     # The script only does XML sitemaps
+email_log       = yes                                   # Set to "no" to disable email logs
+to_email        = your@email.com                        # Ensure the domain meets your mail server requirements
+from_email      = from@email.com                        # Who's getting the email reports?
+email_subject   = Link Checker reports                  # Customise the subject in case you don't like it!
