@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+configparser = "*"
 
 [packages]
 requests = "*"
@@ -12,3 +13,6 @@ regex = "*"
 
 [requires]
 python_version = "3.7"
+
+[scripts]
+link-checker = "python link-checker.py"
