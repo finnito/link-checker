@@ -6,10 +6,6 @@ Simply attach it to your crontab to run it on a regular basis and be aware of an
 
 Sound good?
 
-<a href="https://www.buymeacoffee.com/FinnLeSueur" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="max-width: 150px; width: 150px !important; height: auto;"/>
-</a>
-
 ## ✅ Getting Started
 
 1. Clone the repo
